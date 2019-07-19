@@ -1,4 +1,4 @@
-package controller;
+package com.notebook.controller;
 
 public interface RegexContainer {
     // Cyrillic name

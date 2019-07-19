@@ -1,7 +1,7 @@
-package controller;
+package com.notebook.controller;
 
-import model.Model;
-import view.View;
+import com.notebook.model.Model;
+import com.notebook.view.View;
 
 import java.util.Scanner;
 

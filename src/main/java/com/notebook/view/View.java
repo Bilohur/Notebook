@@ -1,10 +1,10 @@
-package view;
+package com.notebook.view;
 
 import java.util.Locale;
 import java.util.ResourceBundle;
 
-import static view.TextConstant.INPUT_STRING_DATA;
-import static view.TextConstant.WRONG_INPUT_DATA;
+import static com.notebook.view.TextConstant.INPUT_STRING_DATA;
+import static com.notebook.view.TextConstant.WRONG_INPUT_DATA;
 
 public class View {
     // Resource Bundle Installation's

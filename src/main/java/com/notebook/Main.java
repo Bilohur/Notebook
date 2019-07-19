@@ -1,6 +1,8 @@
-import controller.Controller;
-import model.Model;
-import view.View;
+package com.notebook;
+
+import com.notebook.controller.Controller;
+import com.notebook.model.Model;
+import com.notebook.view.View;
 
 public class Main {
     public static void main(String[] args) {

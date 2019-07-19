@@ -1,4 +1,4 @@
-package view;
+package com.notebook.view;
 
 public interface TextConstant {
     String INPUT_STRING_DATA = "input.string.data";

@@ -1,6 +1,6 @@
-package controller;
+package com.notebook.controller;
 
-import view.View;
+import com.notebook.view.View;
 
 import java.util.Scanner;
 

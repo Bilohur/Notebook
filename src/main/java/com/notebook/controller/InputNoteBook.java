@@ -1,10 +1,10 @@
-package controller;
+package com.notebook.controller;
 
-import view.View;
+import com.notebook.view.View;
 import java.util.Scanner;
 
-import static controller.RegexContainer.*;
-import static view.TextConstant.*;
+import static com.notebook.controller.RegexContainer.*;
+import static com.notebook.view.TextConstant.*;
 
 public class InputNoteBook {
 
